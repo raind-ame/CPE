@@ -1,3 +1,4 @@
+// Uva 100: The 3n + 1 problem
 #include <bits/stdc++.h>
 using namespace std;
 

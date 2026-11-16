@@ -1,3 +1,4 @@
+// Uva 10035: Primary Arithmetic
 #include <bits/stdc++.h>
 using namespace std;
 

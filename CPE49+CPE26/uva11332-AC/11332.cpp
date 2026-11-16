@@ -1,3 +1,4 @@
+// Uva 11332: Summing Digits
 #include <bits/stdc++.h>
 using namespace std;
 

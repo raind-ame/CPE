@@ -1,3 +1,4 @@
+// Uva 10783: Odd Sum
 #include <bits/stdc++.h>
 using namespace std;
 

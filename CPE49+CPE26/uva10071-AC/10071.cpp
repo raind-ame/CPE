@@ -1,3 +1,4 @@
+// Uva 10071: Back to High School Physics
 #include <bits/stdc++.h>
 using namespace std;
 

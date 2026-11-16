@@ -1,3 +1,4 @@
+// Uva 10664: Luggage
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -17,7 +18,7 @@ bool dfs(int a, int b, int count)
 
 int main()
 {
-    cin.tie();
+    cin.tie(0);
     ios::sync_with_stdio(0);
 
     int m;

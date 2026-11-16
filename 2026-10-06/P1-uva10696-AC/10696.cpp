@@ -1,3 +1,4 @@
+// Uva 10696: f91
 #include <bits/stdc++.h>
 using namespace std;
 

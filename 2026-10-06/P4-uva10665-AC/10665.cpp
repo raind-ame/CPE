@@ -1,3 +1,4 @@
+// Uva 10665: Diatribe against Pigeonholes
 #include <bits/stdc++.h>
 using namespace std;
 

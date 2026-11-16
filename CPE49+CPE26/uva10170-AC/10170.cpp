@@ -1,3 +1,4 @@
+// Uva 10170: The Hotel with Infinite Rooms
 #include <bits/stdc++.h>
 using namespace std;
 

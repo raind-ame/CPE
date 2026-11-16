@@ -1,3 +1,4 @@
+// Uva 10931: Parity
 #include <bits/stdc++.h>
 using namespace std;
 
