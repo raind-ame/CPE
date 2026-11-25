@@ -1,4 +1,4 @@
-// UVa 10222
+// Uva 10222: Decode the Mad man
 #include <bits/stdc++.h>
 using namespace std;
 

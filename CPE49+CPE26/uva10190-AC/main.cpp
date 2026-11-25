@@ -1,4 +1,4 @@
-//UVa 10190
+// Uva 10190: Divide, But Not Quite Conquer!
 #include <bits/stdc++.h>
 using namespace std;
 
